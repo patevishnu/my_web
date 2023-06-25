@@ -1,0 +1,42 @@
+.item
+{
+  display:inline;
+  padding-left:10px;
+
+}
+body
+{
+  background-image: url("https://media.tenor.com/cx8s4MEfUWAAAAAC/pedralves-animated.gif");
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.page
+{
+text-decoration: none;
+color:#956a82;
+}
+p
+{
+  text-align: center;
+  line-height: 2;
+  font-style:sans-serif;
+  color:#b14e52;
+
+}
+.heading
+{
+  text-align: center;
+  line-height: 2;
+  font-style:sans-serif;
+  color:#53ac81;
+}
+.mail{
+  color:#956a82;
+  text-align: center;
+  line-height: 2;
+  font-style:sans-serif;
+}
+
+/*
+https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+*/
